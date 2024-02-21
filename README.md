@@ -1,2 +1,4 @@
-Performing insert, update, delete, and find records using JDBC.
-Database used - pgAdmin4(plsql)
+ Employee Management System
+• Description -> The project aims for users to perform CRUD operations on employee data within a database using 
+JDBC technology.
+• Technologies Used -> Java 8, Maven, PostgreSQL, JDBC.
